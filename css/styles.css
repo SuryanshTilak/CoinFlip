@@ -1,0 +1,26 @@
+body{
+  background-color: #C1FFD7;
+}
+
+.container{
+  text-align: center;
+}
+
+h1{
+  color: #CAB8FF;
+  font-family: 'Lobster', cursive;
+  margin: 0 0 5rem 0;
+  font-size: 8rem;
+}
+
+img{
+   width: 20%;
+}
+
+footer{
+  margin-top: 3rem;
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
